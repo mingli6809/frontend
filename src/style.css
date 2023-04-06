@@ -1,0 +1,14 @@
+.active {
+    background-color: rgb(0, 186, 0);
+}
+
+.pokemon-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pokemon-list img {
+    height: 100px;
+    width: 100px;
+}
